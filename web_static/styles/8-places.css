@@ -38,7 +38,7 @@
 	align-items: center;
 	justify-content: center;
 	position: relative;
-	margin-bottom: 45px;
+	margin-bottom: 60px;
 }
 
 .wrapper3 div {
@@ -49,14 +49,18 @@
 	position: absolute;
 	right: 0;
 	top: 0;
-}
-.price_by_night p {
+	align-items: center;
+	justify-content: center;
 	color: #FF5A5F;
 	font-size: 30px;
-	text-align: center;
-	margin-top: 23%;
+	padding: 2%;
 }
 
+.price_by_night p {
+	position: relative;
+	top: -27%;
+	text-align: center;
+}
 .information {
 	height: 80px;
 	border-top: 1px solid #DDDDDD;
