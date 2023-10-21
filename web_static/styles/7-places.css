@@ -1,22 +1,31 @@
-.places h1 {
-	text-align: left;
-	vertical-align: top;
+.places {
+	display: flex;
+	flex-direction: column;
 }
+
 .places article {
 	width: 390px;
 	padding: 20px;
 	margin: 20px;
 	border: 1px solid #FF5A5F;
 	border-radius: 4px;
-	display: inline-block;
-}
-.places article:nth-child(4) {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
 }
 
-.places article h2 {
+.wrapper1,
+.wrapper2 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.places h1 {
+	font-size: 30px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.places h2 {
 	font-size: 30px;
 	text-align: center;
+	margin: 0;
 }
