@@ -17,3 +17,4 @@
 
 <a href="https://htmlpreview.github.io/?https://github.com/Assiminee/AirBnB_clone/blob/master/web_static/8-index.html" target="_blank">8-index.html</a>
 
+<a href="https://htmlpreview.github.io/?https://github.com/Assiminee/AirBnB_clone/blob/master/web_static/100-index.html" target="_blank">100-index.html</a>
