@@ -64,7 +64,7 @@ h2 {
 	text-indent: 0;
 }
 
-ul {
+.hovering ul {
 	display: none;
 	list-style: none;
 }
@@ -74,9 +74,9 @@ li {
 	text-indent: 0;
 }
 
-.locations:hover ul {
+.locations .hovering:hover ul {
 	display: block;
 }
-.amenities:hover ul {
+.amenities .hovering:hover ul {
 	display: block;
 }
